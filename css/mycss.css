@@ -1,0 +1,29 @@
+ 
+.dis
+{
+	display: flex;
+}
+.card
+{
+	width: 300px;
+	margin-left: 100px;
+}
+.card-title
+{
+	text-align: right;
+}
+.card-image
+{
+	border-radius: 5px;
+	border-color: brown;
+}
+.n
+{
+	height: 700px;
+}
+.b
+{
+	text-decoration: none;
+	color: white;
+}
+/*This css file is only for the index file*/
